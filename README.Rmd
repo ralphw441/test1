@@ -1,1 +1,2 @@
-
+Testing the README file.
+Here is an equation:  $y = m\,x + b$
